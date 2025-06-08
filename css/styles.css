@@ -23,17 +23,36 @@ body {
     color: #2e2f42;
 }
 
+/* Секция hero */
+.hero-image {
+    background-color: #2e2f42;
+}
+
+/* Заголовок в hero */
+.hero-title {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
 /* Кнопка */
-.button {
-    background-color: #404bbf;
-    color: #fff;
+.main-button {
+    background-color: #4d5ae5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
     border: none;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
-.button:hover,
-.button:focus {
+.main-button:hover,
+.main-button:focus {
     background-color: #404bbf;
 }
 
@@ -51,15 +70,6 @@ body {
 .nav-link:hover,
 .nav-link:focus {
     color: #404bbf;
-}
-
-.hero-image {
-    background-color: #2e2f42;
-    font-size: 56px;
-    line-height: 1.07;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #ffffff;
 }
 
 /* Контактні посилання */
