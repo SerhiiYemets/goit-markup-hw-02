@@ -53,7 +53,6 @@ body {
 .main-button:hover,
 .main-button:focus {
     background-color: #404bbf;
-    color: #404bbf;
 }
 
 /* Навігаційні посилання */
@@ -68,7 +67,7 @@ body {
 .nav-link:hover,
 .nav-link:focus {
     background-color: #404bbf;
-    color: #404bbf;
+    color: #ffffff;
 }
 
 /* Контактні посилання */
