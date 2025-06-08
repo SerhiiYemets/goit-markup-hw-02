@@ -46,7 +46,6 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    border: none;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
@@ -129,7 +128,6 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-    margin-bottom: 72px;
 }
 
 /* Елементи списку */
@@ -146,7 +144,6 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    margin-bottom: 8px;
 }
 
 /* Параграфи (повторно з секції 2) */
@@ -165,7 +162,6 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-    margin-bottom: 72px;
 }
 
 /* Список проектов */
@@ -232,6 +228,5 @@ body {
     line-height: 1.5;
     color: var(--footer-text-color);
     letter-spacing: 0.02em;
-    max-width: 264px;
     margin: 0;
 }
