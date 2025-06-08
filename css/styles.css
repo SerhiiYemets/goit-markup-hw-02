@@ -1,0 +1,51 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #212121;
+    /* домінантний колір тексту */
+    font-size: 16px;
+    line-height: 1.5;
+    
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+.button {
+    background-color: #4d5ae5;
+    /* синій */
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover,
+.button:focus {
+    background-color: #4d5ae5;
+    /* темніший синій при наведенні */
+}
+.nav-link {
+    color: #212121;
+    text-decoration: none;
+    padding: 8px;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: #ff6c00;
+    /* помаранчевий — активний стан */
+}
+.contact-link {
+    color: #757575;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.contact-link:hover,
+.contact-link:focus {
+    color: #ff6c00;
+}
