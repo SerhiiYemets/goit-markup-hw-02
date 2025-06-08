@@ -39,7 +39,7 @@ body {
 
 /* Кнопка */
 .main-button {
-    background-color: #4d5ae5;
+    background-color: #404BBF;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -199,6 +199,7 @@ body {
 .site-footer {
     background-color: #2e2f42;
     text-align: left;
+    /* или center — зависит от макета */
 }
 
 /* Логотип */
