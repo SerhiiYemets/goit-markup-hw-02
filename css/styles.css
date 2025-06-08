@@ -7,8 +7,8 @@ body {
 }
 
 /* Логотип */
-.logo {
-    font-family: 'Raleway', sans-serif;
+.site-logo {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -22,7 +22,6 @@ body {
     color: #2e2f42;
 }
 
-/* Кнопка */
 .button {
     background-color: #4d5ae5;
     color: #fff;
