@@ -37,7 +37,7 @@ body {
 }
 
 /* Навігаційні посилання */
-.nav-link {
+.nav-list {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -48,9 +48,9 @@ body {
 }
 
 
-.nav-link:hover,
-.nav-link:focus {
-    color: #2e2f42;
+.nav-list:hover,
+.nav-list:focus {
+    color: #404bbf;
 }
 
 /* Контактні посилання */
