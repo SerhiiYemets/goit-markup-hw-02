@@ -2,19 +2,29 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     color: #212121;
-    /* домінантний колір тексту */
     font-size: 16px;
     line-height: 1.5;
-    
 }
 
-h1 {
+/* Логотип */
+.logo {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    text-decoration: none;
 }
+
+.logo-span {
+    color: #2e2f42;
+}
+
+/* Кнопка */
 .button {
     background-color: #4d5ae5;
-    /* синій */
     color: #fff;
     border: none;
     padding: 12px 24px;
@@ -24,11 +34,16 @@ h1 {
 
 .button:hover,
 .button:focus {
-    background-color: #4d5ae5;
-    /* темніший синій при наведенні */
+    background-color: #404bbf;
 }
+
+/* Навігаційні посилання */
 .nav-link {
-    color: #212121;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
     text-decoration: none;
     padding: 8px;
     transition: color 0.3s ease;
@@ -36,16 +51,25 @@ h1 {
 
 .nav-link:hover,
 .nav-link:focus {
-    color: #ff6c00;
-    /* помаранчевий — активний стан */
+    color: #404bbf;
 }
+
+/* Контактні посилання */
 .contact-link {
-    color: #757575;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 .contact-link:hover,
 .contact-link:focus {
-    color: #ff6c00;
+    color: #404bbf;
+}
+
+/* Address */
+.address {
+    font-style: normal;
 }
