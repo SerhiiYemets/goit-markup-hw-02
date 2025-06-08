@@ -27,7 +27,6 @@ body {
     background-color: #4d5ae5;
     color: #fff;
     border: none;
-    padding: 12px 24px;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
@@ -43,9 +42,8 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #404bbf;
+    color: #2e2f42;
     text-decoration: none;
-    padding: 8px;
     transition: color 0.3s ease;
 }
 
