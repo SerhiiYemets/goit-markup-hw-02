@@ -66,6 +66,39 @@ body {
     color: #404bbf;
 }
 
+/* === СЕКЦІЯ === */
+.hero-image {
+    background-color: #2e2f42;
+}
+
+/* === ЗАГОЛОВОК === */
+.hero-title {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+/* === КНОПКА === */
+.main-button {
+    background-color: #4d5ae5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+    border: none;
+    text-align: center;
+}
+
+.main-button:hover,
+.main-button:focus {
+    background-color: #404bbf;
+}
+
 .features-title {
     font-size: 36px;
     text-align: center;
