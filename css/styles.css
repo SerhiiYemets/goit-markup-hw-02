@@ -53,6 +53,7 @@ body {
 .main-button:hover,
 .main-button:focus {
     background-color: #404bbf;
+    color: #404bbf;
 }
 
 /* Навігаційні посилання */
@@ -116,7 +117,6 @@ body {
 /* Секция */
 .team-section {
     background-color: #f4f4fd;
-    color: #404bbf;
 }
 
 /* Заголовок секції */
