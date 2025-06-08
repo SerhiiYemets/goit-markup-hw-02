@@ -24,17 +24,14 @@ body {
 }
 
 .button {
-    background-color: #4d5ae5;
+    background-color: #404bbf;
     color: #fff;
     border: none;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 
-.button:hover {
-    background-color: #404bbf;
-}
-
+.button:hover, 
 .button:focus {
     background-color: #404bbf;
 }
