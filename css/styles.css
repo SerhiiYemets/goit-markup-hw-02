@@ -47,13 +47,10 @@ body {
     transition: color 0.3s ease;
 }
 
-.nav-link {
-    color: #404bbf;
-}
 
 .nav-link:hover,
 .nav-link:focus {
-    color: #404bbf;
+    color: #2e2f42;
 }
 
 /* Контактні посилання */
