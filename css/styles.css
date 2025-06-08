@@ -25,7 +25,7 @@ body {
 
 /* Секция hero */
 .hero-image {
-    background-color: #404BBF;
+    background-color: #2e2f42;
 }
 
 /* Заголовок в hero */
@@ -39,7 +39,7 @@ body {
 
 /* Кнопка */
 .main-button {
-    background-color: #4d5ae5;
+    background-color: #404BBF;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -90,4 +90,41 @@ body {
 /* Address */
 .contact-address {
     font-style: normal;
+}
+
+.section-1 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.section-2 {
+    background-color: #F4F4FD;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.section-3 {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.footer {
+    background-color: #2e2f42;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
