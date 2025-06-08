@@ -119,7 +119,6 @@ body {
 /* Секция */
 .team-section {
     background-color: #f4f4fd;
-    padding: 120px 0;
 }
 
 /* Заголовок секції */
@@ -136,9 +135,7 @@ body {
 /* Елементи списку */
 .team-card {
     background-color: #ffffff;
-    padding: 32px 16px;
     text-align: center;
-    border-radius: 8px;
     /* Остальное оформление по желанию */
 }
 
@@ -174,9 +171,6 @@ body {
 /* Список проектов */
 .project-list {
     list-style: none;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 24px;
     margin: 0;
 }
 
@@ -210,7 +204,6 @@ body {
 /* Футер */
 .site-footer {
     background-color: #2e2f42;
-    padding: 100px 0;
     text-align: left;
     /* или center — зависит от макета */
 }
