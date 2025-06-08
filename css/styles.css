@@ -50,7 +50,16 @@ body {
 
 .nav-link:hover,
 .nav-link:focus {
-    background-color: #404bbf;
+    color: #404bbf;
+}
+
+.hero-image {
+    background-color: #2e2f42;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
 }
 
 /* Контактні посилання */
