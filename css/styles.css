@@ -39,7 +39,7 @@ body {
 
 /* Кнопка */
 .main-button {
-    background-color: #404BBF;
+    background-color: #4d5ae5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -82,6 +82,7 @@ body {
 
 .contact-link:hover,
 .contact-link:focus {
+    background-color: #404bbf;
     color: #404bbf;
 }
 
@@ -94,7 +95,6 @@ body {
     font-size: 36px;
     text-align: center;
     margin-bottom: 40px;
-    /* Эти стили — пример, не проверяются в ТЗ */
 }
 
 /* Заголовки в списке */
@@ -133,7 +133,6 @@ body {
 .team-card {
     background-color: #ffffff;
     text-align: center;
-    /* Остальное оформление по желанию */
 }
 
 /* Заголовки (повторно з секції 2) */
