@@ -39,7 +39,7 @@ body {
 
 /* Кнопка */
 .main-button {
-    background-color: #4D5AE5;
+    background-color:  #404bbf;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -52,7 +52,7 @@ body {
 
 .main-button:hover,
 .main-button:focus {
-    background-color: #404bbf;
+    background-color: #4D5AE5;
 }
 
 /* Навігаційні посилання */
